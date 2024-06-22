@@ -1,6 +1,6 @@
 # Project Nicholas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app is a shoe reselling website where buyers and sellers of hyped up shoes can come together and buy/sell brand new shoes. Sellers are able to create accounts and list their shoes onto the marketplace for anyone to buy, and buyers are able to make accounts to buy shoes. Users are able to view their own profile, which consists of all their past purchases of shoes, their past sales of shoes, and what they have currently listed on the webpage.
 
 ## Available Scripts
 
